@@ -1,0 +1,13 @@
+pageextension 50100 ItemPageExt extends "Item Card"
+{
+    layout
+    {
+        addlast(Content)
+        {
+            field("Low Stock Threshold"; Rec."Low Stock Threshold")
+            {
+                ApplicationArea = All;
+            }
+        }
+    }
+}
