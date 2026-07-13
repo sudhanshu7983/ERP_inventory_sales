@@ -1,0 +1,14 @@
+{
+  "id": "12345678-aaaa-bbbb-cccc-1234567890ab",
+  "name": "ERP Inventory Sales System",
+  "publisher": "Sudhanshu",
+  "version": "1.0.0.0",
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
